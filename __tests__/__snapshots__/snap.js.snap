@@ -1,0 +1,287 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders index unchanged 1`] = `
+<div
+  className="ui container"
+>
+  <div
+    className="ui massive text menu"
+  >
+    <div
+      className="right menu"
+    >
+      <a
+        className="item"
+        onClick={[Function]}
+      >
+        Reset
+      </a>
+      <a
+        className="item"
+        onClick={[Function]}
+      >
+        Geek Trust Home
+      </a>
+    </div>
+  </div>
+  <div
+    className="ui huge center aligned header"
+  >
+    Finding Falcone!
+  </div>
+  <h2
+    style={
+      Object {
+        "textAlign": "center",
+      }
+    }
+  >
+    Time Taken: 
+    0
+  </h2>
+  <h3
+    style={
+      Object {
+        "textAlign": "center",
+      }
+    }
+  >
+    Select planets you want to search in:
+  </h3>
+  <div
+    className="ui divider"
+  />
+  <div
+    className="ui grid"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="four wide computer sixteen wide mobile eight wide tablet column"
+      >
+        <p>
+          Destination 
+          1
+        </p>
+        <div
+          aria-expanded={false}
+          className="ui fluid selection dropdown"
+          onBlur={[Function]}
+          onChange={[Function]}
+          onClick={[Function]}
+          onFocus={[Function]}
+          onMouseDown={[Function]}
+          role="listbox"
+          tabIndex={0}
+        >
+          <div
+            aria-atomic={true}
+            aria-live="polite"
+            className="default text"
+            role="alert"
+          >
+            Select destination
+          </div>
+          <i
+            aria-hidden="true"
+            className="dropdown icon"
+            onClick={[Function]}
+          />
+          <div
+            className="menu transition"
+          />
+        </div>
+      </div>
+      <div
+        className="four wide computer sixteen wide mobile eight wide tablet column"
+      >
+        <p>
+          Destination 
+          2
+        </p>
+        <div
+          aria-expanded={false}
+          className="ui fluid selection dropdown"
+          onBlur={[Function]}
+          onChange={[Function]}
+          onClick={[Function]}
+          onFocus={[Function]}
+          onMouseDown={[Function]}
+          role="listbox"
+          tabIndex={0}
+        >
+          <div
+            aria-atomic={true}
+            aria-live="polite"
+            className="default text"
+            role="alert"
+          >
+            Select destination
+          </div>
+          <i
+            aria-hidden="true"
+            className="dropdown icon"
+            onClick={[Function]}
+          />
+          <div
+            className="menu transition"
+          />
+        </div>
+      </div>
+      <div
+        className="four wide computer sixteen wide mobile eight wide tablet column"
+      >
+        <p>
+          Destination 
+          3
+        </p>
+        <div
+          aria-expanded={false}
+          className="ui fluid selection dropdown"
+          onBlur={[Function]}
+          onChange={[Function]}
+          onClick={[Function]}
+          onFocus={[Function]}
+          onMouseDown={[Function]}
+          role="listbox"
+          tabIndex={0}
+        >
+          <div
+            aria-atomic={true}
+            aria-live="polite"
+            className="default text"
+            role="alert"
+          >
+            Select destination
+          </div>
+          <i
+            aria-hidden="true"
+            className="dropdown icon"
+            onClick={[Function]}
+          />
+          <div
+            className="menu transition"
+          />
+        </div>
+      </div>
+      <div
+        className="four wide computer sixteen wide mobile eight wide tablet column"
+      >
+        <p>
+          Destination 
+          4
+        </p>
+        <div
+          aria-expanded={false}
+          className="ui fluid selection dropdown"
+          onBlur={[Function]}
+          onChange={[Function]}
+          onClick={[Function]}
+          onFocus={[Function]}
+          onMouseDown={[Function]}
+          role="listbox"
+          tabIndex={0}
+        >
+          <div
+            aria-atomic={true}
+            aria-live="polite"
+            className="default text"
+            role="alert"
+          >
+            Select destination
+          </div>
+          <i
+            aria-hidden="true"
+            className="dropdown icon"
+            onClick={[Function]}
+          />
+          <div
+            className="menu transition"
+          />
+        </div>
+      </div>
+    </div>
+    <button
+      className="ui primary disabled button"
+      disabled={true}
+      onClick={[Function]}
+      style={
+        Object {
+          "display": "block",
+          "margin": "auto",
+        }
+      }
+      tabIndex={-1}
+    >
+      Find Falcone!
+    </button>
+  </div>
+  <p
+    style={
+      Object {
+        "padding": "75px 0",
+        "textAlign": "center",
+      }
+    }
+  >
+    Coding Problem - www.geektrust.in/finding-falcone 
+  </p>
+</div>
+`;
+
+exports[`renders result unchanged 1`] = `
+<div
+  className="ui container"
+>
+  <div
+    className="ui massive text menu"
+  >
+    <div
+      className="right menu"
+    >
+      <a
+        className="item"
+        onClick={[Function]}
+      >
+        Reset
+      </a>
+      <a
+        className="item"
+        onClick={[Function]}
+      >
+        Geek Trust Home
+      </a>
+    </div>
+  </div>
+  <div
+    className="ui huge center aligned header"
+  >
+    Finding Falcone!
+  </div>
+  <div
+    className="ui placeholder"
+  >
+    <div
+      className="header"
+    >
+      <div
+        className="line"
+      />
+      <div
+        className="line"
+      />
+    </div>
+  </div>
+  <p
+    style={
+      Object {
+        "padding": "75px 0",
+        "textAlign": "center",
+      }
+    }
+  >
+    Coding Problem - www.geektrust.in/finding-falcone 
+  </p>
+</div>
+`;
